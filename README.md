@@ -59,5 +59,14 @@
         2. height
     d. h2
         1. text-align: center (should be the same as the .card a)
+
 5. Do the same for the other pages
+
+6. git add - this will SAVE all your files (the one you chose)
+    a. git add . (all files from your current position)
+    b. git add css/ stream-*.html (css directory and all files which start with "stream-" the asterisk is a wildcard or a placeholder for more then one character)
+
+7. git commit -m "Here you write what you've done eg. Initial commit, Updated image javascrpt, Changed style of immage and so on..."
+
+8. git push (all your files that have been added and commited witll be pushed to github)
 
