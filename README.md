@@ -9,7 +9,7 @@
 1. .html:Create the a template
     Give it a h1
     If you have more then one page add the pages right now - lists
-        a. nav, ul, li, a href a li ul nav
+        a. nav, ul, li, a href (do not forget the .html for the file) a li ul nav
     Give it some text p - Whats the page about/ what do you want to achieve
         Give it some lists, you need always some listing
 
@@ -70,3 +70,4 @@
 
 8. git push (all your files that have been added and commited witll be pushed to github)
 
+9. 
